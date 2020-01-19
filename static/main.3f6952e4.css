@@ -314,7 +314,7 @@ body {
     font-size: 11px;
     line-height: 1.78;
     color: #000;
-    background-color: #ede9dd;
+    background-color: #ffffff;
 }
 
 button,
@@ -5629,7 +5629,7 @@ blockquote small {
 }
 
 .fa-icon {
-    color: #0001;
+    color: rgb(0, 0, 0);
     width: 32px;
     height: 32px;
     display: inline-block;
