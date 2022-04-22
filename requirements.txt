@@ -14,7 +14,7 @@ post==2019.4.13
 public==2019.4.13
 pycodestyle==2.5.0
 PyJWT==1.7.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 pytz==2019.3
 query-string==2019.4.13
